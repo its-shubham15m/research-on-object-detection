@@ -1,0 +1,23 @@
+- The PDF is a review of deep learning-based object detection frameworks.
+
+- It explores the latest advancements in these frameworks and provides insights on how to improve detection performance.
+
+- Traditional object detection methods have limitations that deep learning-based frameworks aim to overcome.
+
+- Deep learning-based frameworks differ from traditional architectures in their use of convolutional neural networks (CNNs) and other deep learning techniques.
+
+- The review covers various deep learning-based frameworks, including Faster R-CNN, YOLO, and SSD.
+
+- The review also discusses techniques for improving detection performance, such as data augmentation, transfer learning, and ensembling.
+
+- The PDF concludes with a discussion of future research directions in deep learning-based object detection.
+
+
+Abstract: The PDF is a review of deep learning-based object detection frameworks, exploring the latest advancements in these frameworks and providing insights on how to improve detection performance.
+
+Database: The PDF does not mention a specific database.
+
+Machine Learning Algorithm: The PDF discusses various deep learning-based object detection frameworks, including Faster R-CNN, YOLO, and SSD, which use convolutional neural networks (CNNs) and other deep learning techniques.
+
+Types of Results: The PDF presents comparative results on Microsoft COCO test dataset and a comparison of testing consumption on VOC 07 test set. 
+It also discusses the trade-off between accuracy and real-time processing for regression-based models compared to region proposal-based models.
